@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Arlington Pavers Inc",
+    "phone": "+18174774777",
+    "category": "paving contractor",
+    "city": "Arlington",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Arlington's Premier Paving Experts",
+      "heroSubline": "Durable driveways, patios, and walkways crafted for Texas weather. Serving Arlington and the DFW metroplex with quality and integrity.",
+      "aboutTitle": "Crafting Excellence in Every Project",
+      "aboutText": [
+        "Arlington Pavers Inc started with a simple goal: to provide Arlington, TX, and the surrounding communities with paving solutions built to last. We're not just laying pavers; we're building relationships and enhancing homes across Tarrant County.",
+        "Our commitment to quality is unwavering. From the initial consultation to the final inspection, we prioritize clear communication, meticulous craftsmanship, and using only the finest materials. We understand the unique challenges of the Texas climate, ensuring every project withstands the test of time.",
+        "We're proud to be a part of the Arlington community. We actively support local initiatives and believe in giving back to the neighborhoods we serve. When you choose Arlington Pavers Inc, you're choosing a local business that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Skilled professionals delivering precision and lasting quality on every paving project."
+        },
+        {
+          "title": "Weather-Resistant Solutions",
+          "description": "Designed for Texas's climate, ensuring durability against heat, storms, and shifting ground."
+        },
+        {
+          "title": "Custom Design Options",
+          "description": "Tailored paving designs to match your style and enhance your property's curb appeal."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear, upfront quotes with no hidden fees, ensuring you know exactly what to expect."
+        }
+      ],
+      "ctaHeadline": "Transform Your Outdoor Space Today",
+      "ctaSubline": "Get a free quote and discover the possibilities for your driveway, patio, or walkway."
+    },
+    "services": [
+      {
+        "slug": "driveway-paving",
+        "name": "Driveway Paving",
+        "shortDescription": "Enhance your home's curb appeal with a durable and stylish paved driveway.",
+        "description": "A well-paved driveway is more than just a place to park your car; it's a statement about your home. At Arlington Pavers Inc, we specialize in crafting driveways that are both beautiful and built to last. We handle everything from initial design and excavation to paver installation and sealing. We offer a wide variety of paver materials, colors, and patterns to complement your home's architecture, whether it's a classic 1960s ranch or a modern new build. \n\nGiven Arlington's climate, we use paving materials specifically designed to withstand the Texas heat and occasional ice storms. Proper drainage is crucial, and we ensure your driveway is graded correctly to prevent water damage. We also offer repair and maintenance services to keep your driveway looking its best for years to come. From concrete pavers to brick and natural stone, we'll help you choose the perfect material to create a driveway that enhances your property's value and curb appeal.\n\nOur team meticulously prepares the sub-base, ensuring a solid foundation that prevents shifting and cracking. We pay close attention to detail, ensuring precise paver placement and proper joint spacing for optimal performance. We finish every project with a thorough cleaning and sealing, protecting your investment from the elements.",
+        "process": [
+          "Step 1: Site Assessment and Design Consultation: We evaluate your property and discuss your design preferences.",
+          "Step 2: Excavation and Base Preparation: We prepare a solid foundation for your driveway.",
+          "Step 3: Paver Installation: We carefully lay each paver according to the approved design.",
+          "Step 4: Compaction and Sealing: We compact the pavers and apply a sealant for lasting protection."
+        ],
+        "benefits": [
+          "Increased Curb Appeal",
+          "Enhanced Property Value",
+          "Durable and Long-Lasting Surface",
+          "Low Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How long does driveway paving take?",
+            "answer": "Most driveway paving projects take between 3-5 days, depending on the size and complexity of the design."
+          },
+          {
+            "question": "What types of pavers are best for driveways?",
+            "answer": "Concrete pavers and brick are excellent choices for driveways due to their durability and resistance to wear and tear."
+          },
+          {
+            "question": "Do I need a permit for driveway paving?",
+            "answer": "It depends on the scope of the project and local regulations. We can help you determine if a permit is required and assist with the application process."
+          }
+        ]
+      },
+      {
+        "slug": "patio-paving",
+        "name": "Patio Paving",
+        "shortDescription": "Create the perfect outdoor living space with a custom-designed paved patio.",
+        "description": "Transform your backyard into an oasis with a custom-paved patio from Arlington Pavers Inc. We specialize in designing and installing patios that are both functional and beautiful, perfect for entertaining or simply relaxing outdoors. Whether you envision a cozy space for intimate gatherings or a large area for family barbecues, we can bring your vision to life.\n\nWe offer a wide range of paver materials, from classic brick to elegant natural stone, allowing you to create a patio that perfectly complements your home's style. We consider the unique challenges of the Texas climate when designing your patio, ensuring proper drainage to prevent water damage and choosing materials that can withstand the intense heat. We can also incorporate features like fire pits, outdoor kitchens, and seating areas to create a truly customized outdoor living space.\n\nOur team works closely with you throughout the entire process, from initial design to final installation. We pay close attention to detail, ensuring precise paver placement and a flawless finish. We also offer patio repair and maintenance services to keep your patio looking its best for years to come. We understand the importance of creating a space that you'll love, and we're committed to delivering exceptional quality and craftsmanship on every project.",
+        "process": [
+          "Step 1: Design Consultation: We discuss your vision for your patio and create a custom design.",
+          "Step 2: Site Preparation: We clear and level the area to prepare for paver installation.",
+          "Step 3: Paver Installation: We carefully lay the pavers according to the approved design.",
+          "Step 4: Finishing Touches: We add borders, seating areas, and other features to complete your patio."
+        ],
+        "benefits": [
+          "Increased Outdoor Living Space",
+          "Enhanced Home Value",
+          "Custom Design Options",
+          "Low Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for patio paving?",
+            "answer": "The best material depends on your personal preferences and budget. Concrete pavers are a cost-effective and durable option, while natural stone offers a more luxurious look."
+          },
+          {
+            "question": "How much does patio paving cost?",
+            "answer": "The cost of patio paving varies depending on the size of the patio, the materials used, and the complexity of the design. We offer free quotes to help you estimate the cost of your project."
+          },
+          {
+            "question": "How do I maintain my paved patio?",
+            "answer": "Regular sweeping and occasional cleaning with a mild detergent are typically all that's needed to maintain a paved patio. Sealing the pavers can also help protect them from stains and fading."
+          }
+        ]
+      },
+      {
+        "slug": "walkway-paving",
+        "name": "Walkway Paving",
+        "shortDescription": "Create inviting walkways that enhance your landscape and add curb appeal.",
+        "description": "Enhance the beauty and functionality of your property with custom-paved walkways from Arlington Pavers Inc. We specialize in designing and installing walkways that are both aesthetically pleasing and safe to navigate. Whether you need a pathway leading to your front door, a meandering garden path, or a functional walkway connecting different areas of your property, we can create a solution that meets your needs.\n\nWe offer a wide variety of paver materials, colors, and patterns to complement your home's style and landscape. We consider the unique challenges of the Texas climate when designing your walkways, ensuring proper drainage to prevent water damage and choosing materials that are slip-resistant. We can also incorporate lighting to enhance safety and create a welcoming ambiance.\n\nOur team works closely with you throughout the entire process, from initial design to final installation. We pay close attention to detail, ensuring precise paver placement and a smooth, even surface. We also offer walkway repair and maintenance services to keep your walkways looking their best for years to come. Let us help you create walkways that enhance your property's beauty and functionality.",
+        "process": [
+          "Step 1: Design and Planning: We work with you to design walkways that complement your landscape.",
+          "Step 2: Site Preparation: We clear and level the area to prepare for paver installation.",
+          "Step 3: Paver Installation: We carefully lay the pavers according to the approved design.",
+          "Step 4: Final Touches: We add lighting, borders, and other features to complete your walkways."
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Improved Safety",
+          "Increased Property Value",
+          "Custom Design Options"
+        ],
+        "faq": [
+          {
+            "question": "What is the best paver material for walkways?",
+            "answer": "Flagstone, brick, and concrete pavers are all excellent choices for walkways. Consider the style of your home and landscape when choosing a material."
+          },
+          {
+            "question": "How wide should a walkway be?",
+            "answer": "A walkway should be at least 3 feet wide to allow two people to walk comfortably side-by-side."
+          },
+          {
+            "question": "How can I prevent weeds from growing in my walkways?",
+            "answer": "Using polymeric sand between the pavers can help prevent weed growth. Regular maintenance and occasional weeding are also recommended."
+          }
+        ]
+      },
+      {
+        "slug": "paver-repairs",
+        "name": "Paver Repairs & Restoration",
+        "shortDescription": "Restore the beauty and integrity of your existing paved surfaces.",
+        "description": "Even the best-laid pavers can suffer damage over time due to weather, wear and tear, or shifting ground. Arlington Pavers Inc offers comprehensive paver repair and restoration services to keep your driveways, patios, and walkways looking their best. We address common issues such as cracked pavers, sunken areas, loose joints, and efflorescence.\n\nOur experienced team will assess the damage and recommend the most effective repair solutions. We use high-quality materials and proven techniques to ensure lasting results. Whether you need a few pavers replaced or a complete restoration, we'll get the job done right. We understand the importance of maintaining the beauty and value of your paved surfaces, and we're committed to providing exceptional service and craftsmanship.\n\nWe meticulously match existing pavers to ensure a seamless repair. We also address underlying issues such as drainage problems or sub-base instability to prevent future damage. Our goal is to restore your paved surfaces to their original beauty and functionality, extending their lifespan and enhancing your property's curb appeal. We handle repairs on all types of paver installations, from residential driveways to commercial walkways.",
+        "process": [
+          "Step 1: Damage Assessment: We inspect your paved surfaces to identify the extent of the damage.",
+          "Step 2: Repair Plan: We develop a detailed repair plan and provide you with a free quote.",
+          "Step 3: Paver Replacement: We replace cracked, broken, or sunken pavers with matching materials.",
+          "Step 4: Joint Repair and Sealing: We repair loose joints and apply a sealant to protect your pavers."
+        ],
+        "benefits": [
+          "Extended Lifespan of Paved Surfaces",
+          "Enhanced Curb Appeal",
+          "Improved Safety",
+          "Prevention of Further Damage"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my pavers need repair?",
+            "answer": "Signs of paver damage include cracked pavers, sunken areas, loose joints, and excessive weed growth."
+          },
+          {
+            "question": "Can I repair pavers myself?",
+            "answer": "While some minor repairs can be done yourself, it's best to hire a professional for more extensive damage to ensure proper repair and avoid further problems."
+          },
+          {
+            "question": "How often should I seal my pavers?",
+            "answer": "Pavers should be sealed every 2-3 years to protect them from stains, fading, and water damage."
+          }
+        ]
+      },
+      {
+        "slug": "paver-sealing",
+        "name": "Paver Sealing",
+        "shortDescription": "Protect your investment and enhance the beauty of your pavers with professional sealing.",
+        "description": "Paver sealing is an essential step in maintaining the beauty and longevity of your paved surfaces. At Arlington Pavers Inc, we offer professional paver sealing services that protect your pavers from stains, fading, and water damage. Sealing also helps to prevent weed growth and enhances the color and texture of your pavers.\n\nOur experienced team uses high-quality sealants specifically designed for pavers. We thoroughly clean your pavers before applying the sealant to ensure proper adhesion and optimal protection. We offer a variety of sealant options, including matte, gloss, and wet-look finishes, allowing you to customize the look of your paved surfaces.\n\nWe understand the importance of protecting your investment, and we're committed to providing exceptional paver sealing services that deliver lasting results. Sealing your pavers not only enhances their appearance but also extends their lifespan, saving you money in the long run. Our sealing process is designed to penetrate deep into the paver, creating a barrier against the elements and preventing damage from occurring. Let us help you keep your pavers looking their best for years to come.",
+        "process": [
+          "Step 1: Paver Cleaning: We thoroughly clean your pavers to remove dirt, debris, and stains.",
+          "Step 2: Joint Stabilization: We stabilize the joints between pavers to prevent sealant from seeping through.",
+          "Step 3: Sealant Application: We apply a high-quality sealant evenly across the paver surface.",
+          "Step 4: Curing Time: We allow the sealant to cure properly for optimal protection."
+        ],
+        "benefits": [
+          "Protection from Stains and Fading",
+          "Prevention of Weed Growth",
+          "Enhanced Color and Texture",
+          "Extended Paver Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "Why is paver sealing important?",
+            "answer": "Paver sealing protects your pavers from stains, fading, water damage, and weed growth, extending their lifespan and enhancing their appearance."
+          },
+          {
+            "question": "How often should I seal my pavers?",
+            "answer": "Pavers should be sealed every 2-3 years, depending on the level of traffic and exposure to the elements."
+          },
+          {
+            "question": "Can I seal my pavers myself?",
+            "answer": "While DIY paver sealing is possible, it's best to hire a professional to ensure proper application and optimal results."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-paving",
+        "name": "Concrete Paving",
+        "shortDescription": "Durable and cost-effective concrete paving solutions for driveways, patios, and walkways.",
+        "description": "For a robust and budget-friendly paving option, Arlington Pavers Inc provides expert concrete paving services. Ideal for driveways, patios, walkways, and more, concrete offers exceptional durability and versatility. Our team meticulously handles every stage, from precise grading and formwork to expert pouring and finishing. We understand the specifics of concrete work in the Arlington area, accounting for the region's soil conditions and climate fluctuations to ensure long-lasting results.\n\nChoose from a variety of finishes, including broom-finished, stamped, or exposed aggregate, to achieve your desired aesthetic. We can also add color pigments to create custom shades that complement your property's exterior. Concrete paving provides a strong, stable surface that can withstand heavy use and the test of time. Our skilled team ensures proper curing techniques are employed to maximize the concrete's strength and minimize the risk of cracking.\n\nWhether you're looking for a simple and functional driveway or an elaborate stamped concrete patio, Arlington Pavers Inc delivers quality workmanship and exceptional customer service. We prioritize clear communication, transparent pricing, and a commitment to exceeding your expectations. We handle projects of all sizes, from small residential repairs to large commercial installations.",
+        "process": [
+          "Step 1: Site Preparation: We clear and grade the area, ensuring a level and stable base.",
+          "Step 2: Formwork: We install precise formwork to define the shape and dimensions of the concrete slab.",
+          "Step 3: Concrete Pouring: We pour high-quality concrete mix according to industry standards.",
+          "Step 4: Finishing and Curing: We finish the concrete surface and employ proper curing techniques to maximize strength."
+        ],
+        "benefits": [
+          "Exceptional Durability",
+          "Cost-Effective Paving Solution",
+          "Versatile Design Options",
+          "Low Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How long does concrete paving last?",
+            "answer": "With proper installation and maintenance, concrete paving can last for 25-50 years or more."
+          },
+          {
+            "question": "What is the best way to prevent concrete cracking?",
+            "answer": "Proper site preparation, reinforcement with rebar or wire mesh, and proper curing techniques are essential for preventing concrete cracking."
+          },
+          {
+            "question": "How much does concrete paving cost?",
+            "answer": "The cost of concrete paving varies depending on the size of the area, the complexity of the design, and the chosen finish. Contact us for a free quote."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dallas",
+        "slug": "dallas-tx",
+        "state": "TX",
+        "content": "Arlington Pavers Inc is proud to offer our expert paving services to homeowners and businesses in Dallas, TX. From the iconic skyline to the charming neighborhoods filled with 1950s ranch-style homes, Dallas presents unique paving needs. We understand the importance of maintaining the character of these established areas while providing durable and aesthetically pleasing paving solutions.\n\nOur team is experienced in working with various paving materials, ensuring that your driveway, patio, or walkway complements the existing architecture and withstands the hot, humid Dallas summers. Whether you need repairs, resurfacing, or a complete paving installation, Arlington Pavers Inc is committed to delivering exceptional results that enhance your property's curb appeal and value.",
+        "localContext": "Dallas features established neighborhoods known for their 1950s ranch homes, requiring paving solutions that respect the existing aesthetic and can endure hot, humid summers.",
+        "nearbyAreas": [
+          "Irving",
+          "Garland",
+          "Mesquite"
+        ]
+      },
+      {
+        "city": "Fort Worth",
+        "slug": "fort-worth-tx",
+        "state": "TX",
+        "content": "Arlington Pavers Inc extends its professional paving services to the vibrant city of Fort Worth, TX. Known for its rich history and unique architectural styles, including Craftsman bungalows near downtown, Fort Worth demands paving solutions that blend seamlessly with its distinct character.\n\nWe specialize in providing customized paving options that enhance the beauty and functionality of your property. Our skilled team is adept at working with a variety of materials to create durable and visually appealing driveways, patios, and walkways. We understand the importance of preserving the historical charm of Fort Worth while delivering modern paving solutions that withstand the challenges of the Texas climate. Arlington Pavers Inc is your trusted partner for all your paving needs in Fort Worth.",
+        "localContext": "Fort Worth's architectural landscape includes charming Craftsman bungalows near downtown, necessitating paving solutions that complement the city's historical ambiance and withstand hot, humid summers.",
+        "nearbyAreas": [
+          "Arlington",
+          "Grand Prairie",
+          "Benbrook"
+        ]
+      },
+      {
+        "city": "Plano",
+        "slug": "plano-tx",
+        "state": "TX",
+        "content": "Arlington Pavers Inc is pleased to offer its paving expertise to the residents and businesses of Plano, TX. With its established subdivisions dating back to the 1980s and 90s, Plano presents a unique blend of modern living and mature landscapes. We understand the importance of maintaining the aesthetic appeal of these neighborhoods while providing durable and reliable paving solutions.\n\nOur team is experienced in working with a variety of paving materials, ensuring that your driveway, patio, or walkway complements the existing architecture and withstands the hot, humid Plano summers. Whether you require repairs, resurfacing, or a new paving installation, Arlington Pavers Inc is dedicated to providing exceptional service and results that enhance your property's value and curb appeal.",
+        "localContext": "Plano features established subdivisions from the 1980s and 90s, requiring paving solutions that blend seamlessly with mature landscapes and withstand hot, humid summers.",
+        "nearbyAreas": [
+          "Richardson",
+          "Allen",
+          "Frisco"
+        ]
+      },
+      {
+        "city": "Frisco",
+        "slug": "frisco-tx",
+        "state": "TX",
+        "content": "Arlington Pavers Inc proudly serves the rapidly growing city of Frisco, TX, providing top-quality paving services to homeowners and businesses alike. Known for its newer construction from the 2000s to 2020s, Frisco demands modern and stylish paving solutions that complement its contemporary architecture.\n\nWe specialize in creating custom paving designs that enhance the beauty and functionality of your property. Our skilled team is experienced in working with a variety of materials, ensuring that your driveway, patio, or walkway reflects your personal style and withstands the challenges of the Texas climate. From new installations to repairs and resurfacing, Arlington Pavers Inc is committed to delivering exceptional results that exceed your expectations.",
+        "localContext": "Frisco is characterized by newer construction from the 2000s to 2020s, requiring modern and stylish paving solutions that complement contemporary architecture and withstand hot, humid summers.",
+        "nearbyAreas": [
+          "Plano",
+          "McKinney",
+          "The Colony"
+        ]
+      },
+      {
+        "city": "McKinney",
+        "slug": "mckinney-tx",
+        "state": "TX",
+        "content": "Arlington Pavers Inc is delighted to offer its professional paving services to the historic city of McKinney, TX. With its charming downtown area and unique architectural styles, McKinney presents a blend of old-world charm and modern living. We understand the importance of preserving the historical character of the city while providing durable and aesthetically pleasing paving solutions.\n\nOur team is experienced in working with a variety of paving materials that complement the historic homes and buildings in McKinney. Whether you need repairs, resurfacing, or a new paving installation, Arlington Pavers Inc is committed to delivering exceptional results that enhance your property's curb appeal and value.",
+        "localContext": "McKinney boasts a historic downtown area with unique architectural styles, requiring paving solutions that complement the city's heritage and withstand hot, humid summers.",
+        "nearbyAreas": [
+          "Allen",
+          "Prosper",
+          "Frisco"
+        ]
+      },
+      {
+        "city": "Arlington",
+        "slug": "arlington-tx",
+        "state": "TX",
+        "content": "As a locally owned and operated business, Arlington Pavers Inc is proud to serve our neighbors and community in Arlington, TX. We understand the unique paving needs of Arlington residents and businesses, and we are committed to providing top-quality workmanship and exceptional customer service.\n\nWhether you need a new driveway, patio, walkway, or any other paving service, our experienced team is here to help. We offer a wide range of paving materials and design options to suit your style and budget. Arlington Pavers Inc is your trusted partner for all your paving needs in Arlington.",
+        "localContext": "Arlington is a diverse city with a mix of residential and commercial properties, requiring a wide range of paving solutions to meet the needs of its residents and businesses.",
+        "nearbyAreas": [
+          "Grand Prairie",
+          "Fort Worth",
+          "Mansfield"
+        ]
+      },
+      {
+        "city": "Grand Prairie",
+        "slug": "grand-prairie-tx",
+        "state": "TX",
+        "content": "Arlington Pavers Inc is pleased to extend our paving services to the growing community of Grand Prairie, TX. We recognize the diverse needs of homeowners and businesses in Grand Prairie, offering tailored paving solutions that meet their specific requirements and budgets.\n\nOur skilled team is equipped to handle projects of all sizes, from small repairs to large-scale installations. We use only the highest quality materials and proven techniques to ensure long-lasting durability and aesthetic appeal. Arlington Pavers Inc is dedicated to providing exceptional service and customer satisfaction in Grand Prairie.",
+        "localContext": "Grand Prairie is a vibrant city with a mix of residential and commercial areas, requiring versatile paving solutions that cater to various needs and preferences.",
+        "nearbyAreas": [
+          "Arlington",
+          "Dallas",
+          "Irving"
+        ]
+      },
+      {
+        "city": "Irving",
+        "slug": "irving-tx",
+        "state": "TX",
+        "content": "Arlington Pavers Inc is committed to providing top-notch paving services to the residents and businesses of Irving, TX. We understand the importance of well-maintained and aesthetically pleasing paving for both residential and commercial properties in Irving.\n\nOur team is highly skilled in all aspects of paving, from initial design and installation to repairs and maintenance. We work closely with our clients to understand their vision and deliver results that exceed their expectations. Arlington Pavers Inc is your reliable partner for all your paving needs in Irving.",
+        "localContext": "Irving is a bustling city with a mix of residential neighborhoods and commercial centers, requiring a range of paving services to ensure safety and enhance property values.",
+        "nearbyAreas": [
+          "Dallas",
+          "Grand Prairie",
+          "Farmers Branch"
+        ]
+      },
+      {
+        "city": "Allen",
+        "slug": "allen-tx",
+        "state": "TX",
+        "content": "Arlington Pavers Inc is proud to offer our expert paving services to the residents and businesses of Allen, TX. As Allen continues to grow and develop, we are committed to providing high-quality paving solutions that enhance the beauty and functionality of properties throughout the city.\n\nOur team is experienced in working with a variety of paving materials and design styles, ensuring that we can meet the unique needs of each client. Whether you need a new driveway, patio, or walkway, Arlington Pavers Inc is dedicated to delivering exceptional results that exceed your expectations.",
+        "localContext": "Allen is a growing city with a mix of established neighborhoods and new developments, requiring versatile paving solutions that cater to diverse architectural styles and landscaping designs and withstand hot, humid summers.",
+        "nearbyAreas": [
+          "Plano",
+          "McKinney",
+          "Fairview"
+        ]
+      },
+      {
+        "city": "Mansfield",
+        "slug": "mansfield-tx",
+        "state": "TX",
+        "content": "Arlington Pavers Inc is pleased to offer our professional paving services to the residents and businesses of Mansfield, TX. Known for its family-friendly atmosphere and growing community, Mansfield demands paving solutions that are both durable and aesthetically pleasing.\n\nWe specialize in providing customized paving options that enhance the beauty and functionality of your property. Our skilled team is adept at working with a variety of materials to create durable and visually appealing driveways, patios, and walkways. We understand the importance of creating outdoor spaces that can be enjoyed for years to come. Arlington Pavers Inc is your trusted partner for all your paving needs in Mansfield.",
+        "localContext": "Mansfield has a family-friendly atmosphere and a growing community, requiring durable and aesthetically pleasing paving solutions for outdoor spaces and withstand hot, humid summers.",
+        "nearbyAreas": [
+          "Arlington",
+          "Grand Prairie",
+          "Kennedale"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "David S.",
+        "rating": 5,
+        "service": "Driveway Paving",
+        "text": "Arlington Pavers Inc did an outstanding job on my driveway. The crew was professional, efficient, and the quality of the work is top-notch. They even handled the permit process for me! Highly recommend.",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Patio Paving",
+        "text": "We hired Arlington Pavers Inc to install a patio in our backyard, and we couldn't be happier. The design process was collaborative, and the finished product is exactly what we envisioned. Great communication throughout the entire project.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 4,
+        "service": "Paver Repairs",
+        "text": "Our walkway had several sunken pavers, creating a tripping hazard. Arlington Pavers Inc came out and quickly repaired the damage. The price was fair, and the work was done professionally.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Linda P.",
+        "rating": 5,
+        "service": "Paver Sealing",
+        "text": "Arlington Pavers Inc sealed our patio pavers, and the difference is remarkable. The colors are much more vibrant, and the surface is easier to clean. A great investment!",
+        "date": "2024-10-01"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Driveway Paving",
+        "text": "From start to finish, Arlington Pavers Inc was fantastic. They helped us choose the perfect pavers for our home and installed them with precision. Our new driveway looks amazing!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 4,
+        "service": "Walkway Paving",
+        "text": "We needed a new walkway leading to our front door, and Arlington Pavers Inc delivered. The walkway is beautiful and functional. There was a slight delay due to weather, but they communicated clearly throughout.",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Arlington TX Paving Contractor | Pavers",
+        "description": "Driveway, patio, & walkway paving in Arlington, TX. Expert paver installation & repair. Serving Dallas-Fort Worth. Free quotes!"
+      },
+      "about": {
+        "title": "About Arlington Pavers Inc | Local Paving",
+        "description": "Learn about Arlington Pavers Inc, your trusted local paving contractor. Quality paving services in Arlington, TX, and surrounding areas."
+      },
+      "services": {
+        "title": "Arlington TX Paving Services | Driveways & Patios",
+        "description": "Expert paving services in Arlington, TX. Driveway paving, patio installation, walkway paving, paver repairs, and more. Free estimates!"
+      },
+      "contact": {
+        "title": "Contact Arlington Pavers Inc | Get a Free Quote",
+        "description": "Contact Arlington Pavers Inc for a free quote on your paving project. Serving Arlington, TX, and the DFW metroplex."
+      },
+      "reviews": {
+        "title": "Arlington Pavers Inc Reviews | Customer Testimonials",
+        "description": "Read reviews from satisfied customers of Arlington Pavers Inc. See why we're the trusted choice for paving in Arlington, TX."
+      },
+      "service-areas": {
+        "title": "Service Areas | Arlington Pavers Inc",
+        "description": "Arlington Pavers Inc service areas. Providing expert paving services in Arlington, Dallas, Fort Worth and surrounding cities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "driveway-paving": "/images/service-driveway-paving.webp",
+      "patio-paving": "/images/service-patio-paving.webp",
+      "walkway-paving": "/images/service-walkway-paving.webp",
+      "paver-repairs": "/images/service-paver-repairs.webp",
+      "paver-sealing": "/images/service-paver-sealing.webp",
+      "concrete-paving": "/images/service-concrete-paving.webp"
+    },
+    "servicesResponsive": {
+      "driveway-paving": {
+        "src": "/images/service-driveway-paving.webp",
+        "srcset": "/images/service-driveway-paving-400w.webp 400w, /images/service-driveway-paving-800w.webp 800w, /images/service-driveway-paving-1200w.webp 1200w, /images/service-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-paving": {
+        "src": "/images/service-patio-paving.webp",
+        "srcset": "/images/service-patio-paving-400w.webp 400w, /images/service-patio-paving-800w.webp 800w, /images/service-patio-paving-1200w.webp 1200w, /images/service-patio-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "walkway-paving": {
+        "src": "/images/service-walkway-paving.webp",
+        "srcset": "/images/service-walkway-paving-400w.webp 400w, /images/service-walkway-paving-800w.webp 800w, /images/service-walkway-paving-1200w.webp 1200w, /images/service-walkway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "paver-repairs": {
+        "src": "/images/service-paver-repairs.webp",
+        "srcset": "/images/service-paver-repairs-400w.webp 400w, /images/service-paver-repairs-800w.webp 800w, /images/service-paver-repairs-1200w.webp 1200w, /images/service-paver-repairs.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "paver-sealing": {
+        "src": "/images/service-paver-sealing.webp",
+        "srcset": "/images/service-paver-sealing-400w.webp 400w, /images/service-paver-sealing-800w.webp 800w, /images/service-paver-sealing-1200w.webp 1200w, /images/service-paver-sealing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-paving": {
+        "src": "/images/service-concrete-paving.webp",
+        "srcset": "/images/service-concrete-paving-400w.webp 400w, /images/service-concrete-paving-800w.webp 800w, /images/service-concrete-paving-1200w.webp 1200w, /images/service-concrete-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
